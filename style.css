@@ -1,0 +1,6 @@
+body {
+    background-image: url(https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGV4MjY2cGptYmYzbGJ2YnpqbXZ1djQwN3NwMWZzc2ZpNWtzbzM4biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gFPxNhzEWdFCCRAqf0/giphy.gif);  /* Replace with your GIF URL */
+    background-size: cover; /* Cover the entire viewport */
+    background-repeat: no-repeat; /* Prevent repeating the image */
+    background-position: center; /* Center the image */
+}
